@@ -75,4 +75,4 @@ exec geth \
     --allow-insecure-unlock \
     --password "${GETH_DATA_DIR}/password" \
     --syncmode=full \
-    --unlock "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" $MINE
+    --unlock "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" $MINE 
